@@ -1,0 +1,8 @@
+{
+  "name": "spec-to-todo",
+  "description": "Turn a behaviour spec into a build checklist for your project: clashes and decisions first, then every requirement in build order, with what's already built ticked.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Abiodun Olunu"
+  }
+}

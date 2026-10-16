@@ -7,6 +7,7 @@ Skills for [Claude Code](https://claude.com/claude-code), published as a plugin 
 ```
 /plugin marketplace add abiodunolunu/claude-skills
 /plugin install page-spec@abiodunolunu
+/plugin install spec-to-todo@abiodunolunu
 ```
 
 ## Skills
@@ -28,3 +29,15 @@ Usage:
 ```
 
 It works with any component-based front end, web or native. Some examples in the skill use Vue and Nuxt.
+
+### spec-to-todo
+
+Turns a spec written by page-spec into a build checklist for your project, saved as `<NAME>_TODO.md`.
+
+It checks what's already built, then lists clashes with your current code, quirks in the spec to fix, and decisions you need to make. After that comes every requirement in build order, one per checkbox, with what already works ticked.
+
+Usage:
+
+```
+/spec-to-todo REPAYMENTS_PAGE.md
+```
