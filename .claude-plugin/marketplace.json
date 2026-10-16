@@ -1,0 +1,16 @@
+{
+  "name": "abiodunolunu",
+  "owner": {
+    "name": "Abiodun Olunu"
+  },
+  "metadata": {
+    "description": "Claude Code skills by Abiodun Olunu."
+  },
+  "plugins": [
+    {
+      "name": "page-spec",
+      "source": "./plugins/page-spec",
+      "description": "Write an exhaustive behaviour spec for one page, layout, website page, component or app screen, from source or a live URL. Describes what users see and do, never how it looks."
+    }
+  ]
+}
