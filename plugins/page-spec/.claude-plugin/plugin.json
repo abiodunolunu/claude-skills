@@ -1,7 +1,7 @@
 {
   "name": "page-spec",
-  "description": "Write an exhaustive behaviour spec for one page, layout, website page, component or app screen, from source or a live URL. Describes what users see and do, never how it looks.",
-  "version": "1.0.0",
+  "description": "Write a design brief for an existing feature, layout, website page, component or app screen, from source or a live URL. Organised by user jobs, never by today's layout, so a redesign doesn't copy the current one.",
+  "version": "2.0.0",
   "author": {
     "name": "Abiodun Olunu"
   }

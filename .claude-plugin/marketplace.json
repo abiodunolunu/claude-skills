@@ -10,12 +10,12 @@
     {
       "name": "page-spec",
       "source": "./plugins/page-spec",
-      "description": "Write an exhaustive behaviour spec for one page, layout, website page, component or app screen, from source or a live URL. Describes what users see and do, never how it looks."
+      "description": "Write a design brief for an existing feature, layout, website page, component or app screen, from source or a live URL. Organised by user jobs, never by today's layout, so a redesign doesn't copy the current one."
     },
     {
       "name": "spec-to-todo",
       "source": "./plugins/spec-to-todo",
-      "description": "Turn a behaviour spec into a build checklist for your project: clashes and decisions first, then every requirement in build order, with what's already built ticked."
+      "description": "Turn a page-spec brief into a build checklist for your project: clashes and decisions first, then every requirement in build order, with what's already built ticked. Keeps the page's shape out of the design agent's brief."
     }
   ]
 }
